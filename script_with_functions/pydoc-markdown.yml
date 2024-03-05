@@ -1,0 +1,5 @@
+loaders:
+  - type: python
+    search_path: [.]
+    modules:
+      - script_2
