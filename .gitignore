@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pydoc-venv/
 
 # Spyder project settings
 .spyderproject
