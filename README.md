@@ -1,2 +1,1 @@
-# pydoc-markdown
-The best strategies of using docstring in python to facilitate efficient documentation generation
+I have created this repository to learn the best way to use pydoc-markdown package to automate documentaion generation.
