@@ -36,7 +36,15 @@ def age_calculator(date_of_birth: str, current_year: int, current_month: int,
 
 Returns the age based on the `date_of_birth`, `current_year`, `current_month`, and `current_day`
 
-`date_of_birth` must be of format YYYY-MM-DD \
-`current_year` must be of format YYYY \
-`current_month` and `current_day` must not have leading zeroes
+**Arguments**:
+
+- `date_of_birth` - The date of birth as a string
+- `current_year` - must be of format YYYY
+- `current_month` - must not have leading zeroes
+- `current_day` - must not have leading zeroes
+  
+
+**Returns**:
+
+- `age` - The age as of today
 

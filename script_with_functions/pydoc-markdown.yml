@@ -3,3 +3,9 @@ loaders:
     search_path: [.]
     modules:
       - script_2
+processors:
+  - type: filter
+    documented_only: false
+    exclude_special: false
+  - type: smart
+  - type: crossref
