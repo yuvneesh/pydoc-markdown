@@ -34,7 +34,7 @@ def age_calculator(date_of_birth: str, current_year: int, current_month: int,
                    current_day: int) -> int
 ```
 
-Returns the age based on the #date_of_birth, #current_year, #current_month, and #current_day
+Returns the age based on the #date_of_birth, **current_year**, **current_month**, and **current_day**
 
 **Arguments**:
 
