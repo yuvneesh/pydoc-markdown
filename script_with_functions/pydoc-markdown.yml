@@ -8,4 +8,4 @@ processors:
     documented_only: false
     exclude_special: false
   - type: smart
-  - type: crossref
+
