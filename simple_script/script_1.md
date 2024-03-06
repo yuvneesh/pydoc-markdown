@@ -2,17 +2,23 @@
 
 # script\_1
 
-<a id="script_1.name"></a>
+<a id="script_1.os"></a>
 
-#### name
+## os
 
-This is a special comment.
-We can use this to tell us about the variable in use i.e. name
+<a id="script_1.Script1"></a>
 
-<a id="script_1.last_name"></a>
+## Script1 Objects
 
-#### last\_name
+```python
+class Script1()
+```
 
-Alternatively, we can add as many lines of comment we want.
-It will work as long as the last line has "#:" symbol.
+<a id="script_1.Script1.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__()
+```
 

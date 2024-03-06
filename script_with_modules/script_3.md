@@ -1,3 +1,11 @@
+<a id="__init__"></a>
+
+# \_\_init\_\_
+
+<a id="__init__.script_3"></a>
+
+## script\_3
+
 <a id="script_3"></a>
 
 # script\_3
@@ -22,7 +30,23 @@ OR we can use the google processor.
 
 ## s
 
-<a id="script_3.where_am_i"></a>
+<a id="script_3.Script3"></a>
+
+## Script3 Objects
+
+```python
+class Script3()
+```
+
+<a id="script_3.Script3.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__()
+```
+
+<a id="script_3.Script3.where_am_i"></a>
 
 #### where\_am\_i
 

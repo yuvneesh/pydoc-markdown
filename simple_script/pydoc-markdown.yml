@@ -3,3 +3,5 @@ loaders:
     search_path: [.]
     modules:
       - script_1
+processors:
+  - type: google

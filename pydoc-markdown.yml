@@ -1,15 +1,18 @@
 loaders:
   - type: python
     search_path: [
+      .,
       ./simple_script/, 
       ./script_with_functions/,
       ./script_with_modules/,
       ./modular_scripts/]
     modules:
+      - docify
       - script_1
       - script_2
       - script_3
       - script_4
+      - script_4_support
 
 processors:
   - type: google

@@ -1,8 +1,32 @@
+<a id="__init__"></a>
+
+# \_\_init\_\_
+
+<a id="__init__.script_2"></a>
+
+## script\_2
+
 <a id="script_2"></a>
 
 # script\_2
 
-<a id="script_2.intro"></a>
+<a id="script_2.Script2"></a>
+
+## Script2 Objects
+
+```python
+class Script2()
+```
+
+<a id="script_2.Script2.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__()
+```
+
+<a id="script_2.Script2.intro"></a>
 
 #### intro
 
@@ -15,7 +39,7 @@ It will print few lines from variables defined in the function.
 
 Note that the docstring for variables defined within the function are not printed.
 
-<a id="script_2.func_with_args"></a>
+<a id="script_2.Script2.func_with_args"></a>
 
 #### func\_with\_args
 
@@ -25,7 +49,7 @@ def func_with_args(name: str, greeting: str) -> None
 
 Here we have a function that takes two string arguments
 
-<a id="script_2.age_calculator"></a>
+<a id="script_2.Script2.age_calculator"></a>
 
 #### age\_calculator
 

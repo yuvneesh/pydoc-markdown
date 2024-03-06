@@ -4,15 +4,27 @@
 
 We use this module to greet the user running this module
 
-<a id="script_4.helpers"></a>
-
-## helpers
-
 <a id="script_4.datetime"></a>
 
 ## datetime
 
-<a id="script_4.greeting"></a>
+<a id="script_4.Script4"></a>
+
+## Script4 Objects
+
+```python
+class Script4()
+```
+
+<a id="script_4.Script4.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__()
+```
+
+<a id="script_4.Script4.greeting"></a>
 
 #### greeting
 
@@ -22,7 +34,7 @@ def greeting() -> str
 
 Returns the time-appropriate greeting
 
-<a id="script_4.message"></a>
+<a id="script_4.Script4.message"></a>
 
 #### message
 
@@ -57,7 +69,23 @@ This module contains supporting functions.
 
 ## os
 
-<a id="script_4_support.get_user_name"></a>
+<a id="script_4_support.Script4Support"></a>
+
+## Script4Support Objects
+
+```python
+class Script4Support()
+```
+
+<a id="script_4_support.Script4Support.__init__"></a>
+
+#### \_\_init\_\_
+
+```python
+def __init__()
+```
+
+<a id="script_4_support.Script4Support.get_user_name"></a>
 
 #### get\_user\_name
 
