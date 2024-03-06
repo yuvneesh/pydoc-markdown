@@ -22,6 +22,10 @@ def message(name: str, greeting: str) -> str:
         greeting (str): The greeting to be user
     Returns:
         A greeting message that can be show to user
+
+    Todo: 
+        * Make the name Initial case.
+        * Missing greetings for 11pm - 5 am
     """
     return (f"{greeting} {name}")
 
