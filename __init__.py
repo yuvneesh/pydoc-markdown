@@ -1,7 +1,0 @@
-from __future__ import annotations
-import simple_script
-import script_with_functions.script_2
-from script_with_modules.script_3 import Script3
-from modular_scripts.script_4 import Script4
-from modular_scripts.script_4_support import Script4Support
-import docify

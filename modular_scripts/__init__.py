@@ -1,2 +1,0 @@
-import script_4
-import script_4_support
