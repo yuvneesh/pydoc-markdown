@@ -16,3 +16,5 @@ loaders:
 
 processors:
   - type: google
+  - type: filter
+    expression: not name in ["__init__", "annotations", "os"]
